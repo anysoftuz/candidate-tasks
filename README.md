@@ -36,11 +36,11 @@ There is no need to
 <hr/>
 
 
-### Test task for frontend position in Anysoft.
+## Test task for frontend position in Anysoft.
 
 In this test task, we want you to create a **TO-DO** app like **Notion**.
 A task must have the following information: **title**, **description**, **order_id**, **status**, **estimate/story-point**, **created_at**, **soft_delete**.
-You should only build frontend functionalities.
+You should only build front-end functionalities.
 
 There is no need to 
 > * implement authorization and authentication functionalities.
@@ -77,7 +77,7 @@ There is no need to
 <hr/>
 
 
-Test task for UX/UI design position in Anysoft.
+## Test task for UX/UI design position in Anysoft.
 
 In this test task, we want you to create a **TO-DO** app like **Notion**.
 A task must have the following information: **title**, **description**, **order_id**, **status**, **estimate/story-point**, **created_at**, **soft_delete**.
