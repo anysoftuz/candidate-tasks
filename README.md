@@ -25,7 +25,7 @@ There is no need to
 * E2E test(Super test)
 * Docker
 * Swagger
-* Postgres
+* Postgres(Knex)
 
 ### Notes:
 * You need to implement the project according to the **keywords** provided to you.
